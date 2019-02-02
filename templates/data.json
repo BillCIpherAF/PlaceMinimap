@@ -1,8 +1,527 @@
-},
-  "MerkezBayrak": {
-    "name": "template_3.png",
-    "x": 342,
-    "y": -378,
-    "width": 377,
-    "height": 279
+{
+  "VoidGirl": {
+    "name": "VoidGirl.png",
+    "x": -1297,
+    "y": -521,
+    "width": 200,
+    "height": 201
+  },
+  "DiscordYazisi": {
+    "name": "DiscordTR.png",
+    "x": 25,
+    "y": -1424,
+    "width": 617,
+    "height": 75
+  },
+  "AnaBayrak": {
+    "name": "bayrak.png",
+    "x": -205,
+    "y": -2192,
+    "width": 1227,
+    "height": 726
+  },
+  "AzerbaycanBayragi": {
+    "name": "aze.png",
+    "x": -618,
+    "y": -2192,
+    "width": 408,
+    "height": 236
+    },
+  "FenrbahceProje": {
+    "name": "Fenerbahçe2.png",
+    "x": -1294,
+    "y": -2908,
+    "width": 1239,
+    "height": 712
+  },
+  "MedyaKim": {
+    "name": "medyakim.png",
+    "x": -290,
+    "y": -1920,
+    "width": 119,
+    "height": 110
+  },
+  "BesiktasLogo": {
+    "name": "BesiktasLogo.png",
+    "x": -265,
+    "y": -2622,
+    "width": 113,
+    "height": 144
    },
+  "KayiBayragi": {
+    "name": "kayibayragi.png",
+    "x": 882,
+    "y": -2274,
+    "width": 140,
+    "height": 81
+  },
+  "AtaturkImzali": {
+    "name": "ataturk2.png",
+    "x": -281,
+    "y": -2268,
+    "width": 77,
+    "height": 77
+  },
+  "AtaturkImzali2": {
+    "name": "ataturk3.png",
+    "x": -2396,
+    "y": -2960,
+    "width": 121,
+    "height": 172
+  },
+  "AtaturkPortreTuglalı": {
+    "name": "ataturk1.png",
+    "x": 63,
+    "y": -2285,
+    "width": 84,
+    "height": 92
+  },
+  "AtaturkYazisi": {
+    "name": "ataturk5.png",
+    "x": 37,
+    "y": -2287,
+    "width": 88,
+    "height": 23
+  },
+  "BesiktasKartal": {
+    "name": "Kartal.png",
+    "x": -307,
+    "y": -2524,
+    "width": 39,
+    "height": 39
+  },
+  "BJKsinir1": {
+    "name": "snr1.png",
+    "x": -267,
+    "y": -2588,
+    "width": 2,
+    "height": 71
+  },
+  "GurcistanBayrak": {
+    "name": "GurcistanBayrakMini.png",
+    "x": -249,
+    "y": -2310,
+    "width": 35,
+    "height": 27
+  },
+  "kahraman": {
+    "name": "hero.png",
+    "x": -47,
+    "y": -2688,
+    "width": 600,
+    "height": 119
+  },
+  "TurkYazisi": {
+    "name": "Türk.png",
+    "x": 82,
+    "y": -2320,
+    "width": 84,
+    "height": 37
+  },
+  "faggots": {
+    "name": "faggots.png",
+    "x": 203,
+    "y": -796,
+    "width": 301,
+    "height": 17
+  },
+  "AzerbaycanProjesi": {
+    "name": "azerbaycanprojesi.png",
+    "x": -987,
+    "y": -1905,
+    "width": 2159,
+    "height": 632
+  },
+  "TSK_Projesi": {
+    "name": "tskkomple.png",
+    "x": -4013,
+    "y": -295,
+    "width": 415,
+    "height": 304
+  },
+  "Proje_çopluk": {
+    "name": "Proje_çop.png",
+    "x": -205,
+    "y": -2400,
+    "width": 1300,
+    "height": 208
+  },
+  "siyahsancakbayrak": {
+    "name": "siyahsancak.png",
+    "x": 748,
+    "y": -2531,
+    "width": 275,
+    "height": 183
+     },
+  "Pixel_Art_1": {
+    "name": "pixelart.png",
+    "x": -982,
+    "y": -2712,
+    "width": 93,
+    "height": 68
+         },
+  "Pixel_Art_2": {
+    "name": "pixel_art_2.png",
+    "x": -302,
+    "y": -2347,
+    "width": 49,
+    "height": 35
+          },
+  "Ermeni_Amkleri": {
+    "name": "border.png",
+    "x": -987,
+    "y": -2413,
+    "width": 84,
+    "height": 90
+        },
+  "Pixel_Art_Dondurmalar": {
+    "name": "Pixel_Art_Dondurma.png",
+    "x": 1178,
+    "y": -1849,
+    "width": 65,
+    "height": 20
+       },
+  "Super_Mario_World": {
+    "name": "SuperMarioWorld.png",
+    "x": 1207,
+    "y": -1804,
+    "width": 180,
+    "height": 203
+   },
+  "kerkuk": {
+    "name": "kerkuk.png",
+    "x": -428,
+    "y": -293,
+    "width": 27,
+    "height": 15
+    },
+  "Aziz_Yildirim": {
+    "name": "Aziz_Yildirim.png",
+    "x": -901,
+    "y": -1960,
+    "width": 150,
+    "height": 56
+       },
+  "Pixel_Art_Kalpler": {
+    "name": "Pixel_Art_Kalpler.png",
+    "x": 1126,
+    "y": -2040,
+    "width": 174,
+    "height": 108
+   },
+  "15Temmuz": {
+    "name": "15_Temmuz.png",
+    "x": -942,
+    "y": -2193,
+    "width": 222,
+    "height": 230
+   },
+  "bursaspor": {
+    "name": "Bursaspor.png",
+    "x": -202,
+    "y": -1466,
+    "width": 228,
+    "height": 132
+    },
+  "Turkiye_Fransa": {
+    "name": "TRFR.png",
+    "x": 1969,
+    "y": 1143,
+    "width": 181,
+    "height": 146
+   },
+  "Nirvana": {
+    "name": "Nirvana.png",
+    "x": 862,
+    "y": -2676,
+    "width": 84,
+    "height": 111
+      },
+  "Pixel_Art_Kus": {
+    "name": "Pixel_Art_Kus.png",
+    "x": 797,
+    "y": -2608,
+    "width": 51,
+    "height": 59
+   },
+  "EMFortakProje": {
+    "name": "nflag.png",
+    "x": -1728,
+    "y": 957,
+    "width": 349,
+    "height": 209
+   },
+  "EMF_Komple_Proje": {
+    "name": "weweew.png",
+    "x": -1789,
+    "y": 957,
+    "width": 668,
+    "height": 390
+      },
+  "CommieTears": {
+    "name": "tears.png",
+    "x": -1379,
+    "y": 958,
+    "width": 131,
+    "height": 131
+    },
+  "KarabukSpor": {
+    "name": "Karabukspor.png",
+    "x": -410,
+    "y": -2950,
+    "width": 294,
+    "height": 137
+     },
+  "Pixel_Art_Silah": {
+    "name": "Silah.png",
+    "x": -3967,
+    "y": -97,
+    "width": 40,
+    "height": 15
+        },
+  "Deadpool_Proje": {
+    "name": "deadpool.png",
+    "x": 36,
+    "y": -2826,
+    "width": 300,
+    "height": 129
+   },
+  "Eyupspor": {
+    "name": "eyupspor.png",
+    "x": -1210,
+    "y": -2154,
+    "width": 100,
+    "height": 100
+   },
+  "Olimpiyat1": {
+    "name": "olimpiyat.png",
+    "x": -2804,
+    "y": -4131,
+    "width": 171,
+    "height": 172
+    },
+  "Olimpiyat2": {
+    "name": "polis.png",
+    "x": -2956,
+    "y": -4199,
+    "width": 74,
+    "height": 120
+   },
+  "The_Golden_Trio": {
+    "name": "trio.png",
+    "x": 763,
+    "y": -2915,
+    "width": 275,
+    "height": 183
+   },
+  "Emir_Kaya": {
+    "name": "EK.png",
+    "x": 1096,
+    "y": -2715,
+    "width": 324,
+    "height": 99
+   },
+  "CountryBall_TSK": {
+    "name": "CountryBallTSK.png",
+    "x": -3636,
+    "y": 0,
+    "width": 100,
+    "height": 100
+   },
+  "Bucaspor": {
+    "name": "bucaspor.png",
+    "x": -6874,
+    "y": -2103,
+    "width": 300,
+    "height": 300
+   },
+  "KeepYourCityClean": {
+    "name": "KeepYour.png",
+    "x": -3757,
+    "y": -54,
+    "width": 89,
+    "height": 133
+   },
+  "KomunistAnaBaseSaldırı": {
+    "name": "komunist_ana_base.png",
+    "x": -2218,
+    "y": 3249,
+    "width": 747,
+    "height": 543
+   },
+  "PlanLokum": {
+    "name": "planlokum.png",
+    "x": 398,
+    "y": -2895,
+    "width": 613,
+    "height": 121
+   },
+  "GS_Kucuk_Aslan": {
+    "name": "aslans.png",
+    "x": -307,
+    "y": -1810,
+    "width": 90,
+    "height": 90
+   },
+  "ACKLLyazisi": {
+    "name": "ACKLL.png",
+    "x": -402,
+    "y": -1955,
+    "width": 168,
+    "height": 32
+   },
+  "siyahsancakkucuk": {
+    "name": "ssancak.png",
+    "x": -196,
+    "y": -2231,
+    "width": 47,
+    "height": 21
+   },
+  "BursaTimsahveIbrahimYazici": {
+    "name": "BursaTimsah.png",
+    "x": 26,
+    "y": -1466,
+    "width": 225,
+    "height": 42
+   },
+  "BursaTeam": {
+    "name": "bursateam.png",
+    "x": -307,
+    "y": -1711,
+    "width": 102,
+    "height": 185
+   },
+  "AtaturkBayrak": {
+   "name": "ata.png",
+   "x": 1023,
+   "y": -1720,
+   "width": 185,
+   "height": 204
+   },
+  "AliyevSiluet": {
+   "name": "aliyev.png",
+   "x": -698,
+   "y": -2192,
+   "width": 80,
+   "height": 82
+   },
+  "NaziSwastika": {
+   "name": "swastika.png",
+   "x": 353,
+   "y": -27498,
+   "width": 90,
+   "height": 155
+   },
+  "FatihTerim": {
+   "name": "fatih.png",
+   "x": -649,
+   "y": -1800,
+   "width": 109,
+   "height": 79
+   },
+  "numKulesi": {
+   "name": "numtower.png",
+   "x": -1097,
+   "y": -791,
+   "width": 113,
+   "height": 368
+   },
+  "TRveTuran_dc_linki": {
+   "name": "dcturan.png",
+   "x": 1023,
+   "y": -1775,
+   "width": 185,
+   "height": 54
+   },
+  "OsmanBatur": {
+   "name": "osman.png",
+   "x": 1023,
+   "y": -1892,
+   "width": 98,
+   "height": 116
+   },
+  "BikazePP": {
+   "name": "bikaze.png",
+   "x": 25939,
+   "y": -3841,
+   "width": 75,
+   "height": 75
+   },
+  "Terorist_Ussu_Uzerine_Sablon": {
+   "name": "terorist_sablonu.png",
+   "x": 4669,
+   "y": 3781,
+   "width": 926,
+   "height": 564
+   },
+  "MertPinguPP": {
+   "name": "mertpingu.png",
+   "x": 25939,
+   "y": -3687,
+   "width": 75,
+   "height": 75
+   },
+  "KahramanPP": {
+   "name": "kahramanpp.png",
+   "x": 26247,
+   "y": -3533,
+   "width": 75,
+   "height": 75
+   },
+  "GSKompleAlan": {
+   "name": "GSkomple.png",
+   "x": -711,
+   "y": -1954,
+   "width": 503,
+   "height": 266
+   },
+  "EbesininAmiKoordinatindakiKucukKahramanYazisi": {
+   "name": "heroyazi.png",
+   "x": 1887,
+   "y": 5923,
+   "width": 300,
+   "height": 44
+   },
+  "MerkezAtatürk": {
+   "name": "ataturk.png",
+   "x": -700,
+   "y": -120,
+   "width": 218,
+   "height": 218
+  },
+ "GScimbomYazisi": {
+  "name": "cimbom.png",
+  "x": -711,
+  "y": -1711,
+  "width": 215,
+  "height": 23
+  },
+ "TürkNaziBayrağı": {
+  "name": "turknazi.png",
+  "x": -473,
+  "y": -200,
+  "width": 124,
+  "height": 400
+  },
+ "TrabzonsportAta": {
+  "name": "trabzonata.png",
+  "x": -1098,
+  "y": -2137,
+  "width": 72,
+  "height": 75
+  },
+    "OrtaProje": {
+  "name": "OrtaProje.png",
+  "x": -191,
+  "y": -601,
+  "width": 460,
+  "height": 357
+  },
+    "PixelTuranArtıUzak": {
+  "name": "pixelturanart.png",
+  "x": -8445,
+  "y": -3839,
+  "width": 750,
+  "height": 397
+  }
+}
