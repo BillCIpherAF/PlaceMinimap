@@ -1,14 +1,14 @@
 // ==UserScript==
-// @name         PixelTr Minimap
-// @namespace    http://discord.io/pixeltr
+// @name         PixelPlace Minimap
+// @namespace    http://discord.io/trplace
 // @version      3.1.2
-// @description  Pixelcanvas Minimap     ☪ | PixelTurkey | ☪
-// @author       Some Anon && Qh0stM4N
-// @match        https://pixelcanvas.io/*
-// @match        http://pixelcanvas.io/*
-// @homepage     https://github.com/Priz001/Pixelcanvas-Minimap/
-// @updateURL    https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/minimap.user.js
-// @downloadURL  https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/minimap.user.js
+// @description  PixelPlace Minimap     ☪ | PixelPlace | ☪
+// @author       furkan#3251
+// @match        https://pixelplace.fun/*
+// @match        http://pixelplace.fun/*
+// @homepage     https://github.com/Furkan2514/PlaceMinimap/
+// @updateURL    https://raw.githubusercontent.com/Furkan2514/PlaceMinimap/master/minimap.user.js
+// @downloadURL  https://raw.githubusercontent.com/Furkan2514/PlaceMinimap/master/minimap.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -175,8 +175,8 @@ function exportMd() {
     Object.keys(template_list).map(function (index, ele) {
         var eles = template_list[index];
         mdstr += '\n#### ' + index;
-        mdstr += '\n[![](https://raw.githubusercontent.com/Priz001/Pixelcanvas-Minimap/master/images/' + eles.name + ')]';
-        mdstr += '(http://pixelcanvas.io/@' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')'
+        mdstr += '\n[![](https://raw.githubusercontent.com/Furkan2514/PlaceMinimap/master/images/' + eles.name + ')]';
+        mdstr += '(http://pixelplace.fun/@' + Math.floor(eles.x + eles.width / 2) + ',' + Math.floor(eles.y + eles.height / 2) + ')'
         mdstr += '\n';
         ttlpx += eles.width * eles.height;
     });
